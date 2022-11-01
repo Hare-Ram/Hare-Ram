@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning JS design patterns.
 - 💞️ I’m looking to collaborate on vanilla JS & ReactJS
 - 📫 How to reach me 
-  - contact@hareram.dev
   - https://www.linkedin.com/in/hare-ram/
+  - contact@hareram.dev
   - https://twitter.com/hareram_in
   - https://www.instagram.com/hareram7/
 
