@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hare-Ram
-- 👀 I’m interested in all things web and philosphy.
+- 👀 I’m interested in all things web, technology and philosophy.
 - 🌱 I’m currently learning JS design patterns.
 - 💞️ I’m looking to collaborate on vanilla JS & ReactJS
 - 📫 How to reach me 
